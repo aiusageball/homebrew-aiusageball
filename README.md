@@ -4,8 +4,11 @@ Install the signed Apple Silicon build:
 
 ```bash
 brew tap aiusageball/aiusageball
+brew trust aiusageball/aiusageball
 brew install --cask ai-usage-ball
 ```
+
+(`brew trust` is required for third-party taps on current Homebrew.)
 
 Requires macOS 12+ (Monterey) on Apple Silicon.
 
