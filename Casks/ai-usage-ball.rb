@@ -1,6 +1,6 @@
 cask "ai-usage-ball" do
-  version "0.3.6"
-  sha256 "e6968a563ad172beb083b187d85453186eebee39a6a0e5b8bd85c139509d633d"
+  version "0.3.8"
+  sha256 "88ff64c03e8b1f52bc7ffac3174f92a99ed65731b7de930dd1aa128569bea9b6"
 
   url "https://github.com/aiusageball/ai-usage-ball/releases/download/v#{version}/AI-Usage-Ball.dmg",
       verified: "github.com/aiusageball/ai-usage-ball/"
